@@ -58,7 +58,7 @@ nav a:hover {
 }
 
 .produtos li:hover h2{
-	font-size: 34px;
+	font-size: 30px;
 }
 
 .produtos {
@@ -68,7 +68,7 @@ nav a:hover {
 }
 
 .produtos h2 {
-	font-size: 30px;
+	font-size: 26px;
 	font-weight: bold;
 }
 
@@ -84,7 +84,7 @@ nav a:hover {
 
 footer {
 	text-align: center;
-	background: url("bg.jpg");
+	background: url("/images/bg.jpg");
 	padding: 40px 0; 
 }
 
@@ -94,8 +94,6 @@ footer {
 	margin: 20px 0;
 }
 
-main {
-}
 
 form {
 	margin: 40px 0;
@@ -133,7 +131,7 @@ form label, form legend {
 
 .enviar:hover {
 	background: darkorange;
-	transform: scale(1.2);
+	transform: scale(1.05);
 }
 
 table {
